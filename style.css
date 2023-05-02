@@ -1,6 +1,7 @@
 #banner {
   width: 100%;
   height: auto;
+
 }
 
 #rell {
@@ -16,13 +17,14 @@
 #header {
   text-align: center;
   color: red;
- 
+ font-family: 'Roboto Slab', serif;
   padding: 30px;
   
 }
 
 #back {
   background: greenyellow;
+font-family: 'Roboto Slab', serif;
 
  
 }
@@ -30,11 +32,13 @@
 .back2 {
   background: greenyellow;
   color: red;
+font-family: 'Roboto Slab', serif;
   
 }
 
 .back3 {
   background: lightyellow;
+font-family: 'Roboto Slab', serif;
 }
 
 #sub {
@@ -122,3 +126,6 @@ h2, .downo {
   margin: 0;
   padding: 0;
 }
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&display=swap');
